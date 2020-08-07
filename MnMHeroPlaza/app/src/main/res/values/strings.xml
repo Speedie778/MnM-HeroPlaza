@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MnM: Hero Plaza</string>
+    <string name="application_title">Mutants and Masterminds: Hero Plaza</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for main screen -->
+    <string name="title">Mutants and Masterminds\n HERO PLAZA</string>
+    <string name="btn_new">Create</string>
+    <string name="btn_load">Load</string>
+</resources>
