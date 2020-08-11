@@ -19,7 +19,7 @@
     </activity>
     <activity
         android:id="@+id/create_details"
-        android:name="com.example.mnmheroplaza.create_details"
+        android:name="com.example.mnmheroplaza.Details"
         android:label="activity_create_details"
-        tools:layout="@layout/activity_create_details" />
+        tools:layout="@layout/activity_details" />
 </navigation>

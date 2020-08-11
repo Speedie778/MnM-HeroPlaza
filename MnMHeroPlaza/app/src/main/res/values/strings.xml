@@ -2,8 +2,17 @@
     <string name="app_name">MnM: Hero Plaza</string>
     <string name="application_title">Mutants and Masterminds: Hero Plaza</string>
     <string name="action_settings">Settings</string>
-    <!-- Strings used for fragments for main screen -->
+    <!-- Strings used for main screen -->
     <string name="title">Mutants and Masterminds\n HERO PLAZA</string>
     <string name="btn_new">Create</string>
     <string name="btn_load">Load</string>
+    <!-- Strings used for details screen -->
+    <string name="btn_continue">Continue</string>
+    <!-- Strings used for navigation screen -->
+    <string name="btn_powers">Powers</string>
+    <string name="btn_skills">Skills</string>
+    <string name="btn_abilities">Abilities</string>
+    <string name="btn_equipment">Equipment</string>
+    <string name="btn_advantages">Advantages</string>
+    <string name="btn_details">Details</string>
 </resources>
