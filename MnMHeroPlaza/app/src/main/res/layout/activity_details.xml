@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".create_details"
+    tools:context=".Details"
     android:background="@color/colorAccent2">
 
     <EditText
@@ -180,4 +180,17 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.8"
         app:layout_constraintWidth_percent="0.8" />
+
+    <Button
+        android:id="@+id/details_btn_continue"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:text="@string/btn_continue"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHeight_percent="0.07"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.9"
+        app:layout_constraintWidth_percent="0.4" />
 </androidx.constraintlayout.widget.ConstraintLayout>

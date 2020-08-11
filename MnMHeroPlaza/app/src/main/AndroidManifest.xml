@@ -9,10 +9,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".create_details"></activity>
+        <activity android:name=".Advantages"></activity>
+        <activity android:name=".Equipment" />
+        <activity android:name=".Skills" />
+        <activity android:name=".Abilities" />
+        <activity android:name=".Powers" />
+        <activity android:name=".Navigation" />
+        <activity android:name=".Details" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
